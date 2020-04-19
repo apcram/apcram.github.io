@@ -104,9 +104,9 @@ math:
       url: '#'
 
     - title: Computer Science A
-      excerpt: Excerpt
+      excerpt: The essence of object-oriented programming in Java.
       cta: Review
-      url: '#'       
+      url: '/computer-science-a'       
 
     - title: Computer Science Principles
       excerpt: Excerpt
