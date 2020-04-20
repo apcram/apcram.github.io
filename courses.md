@@ -152,7 +152,7 @@ sciences:
     - title: Physics C&#58; Electricity and Magnetism
       excerpt: Excerpt
       cta: Review
-      url: '#'     
+      url: '/physics-c-electricity-and-magnetism'     
 
 
 languages:
